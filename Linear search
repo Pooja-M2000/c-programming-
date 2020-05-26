@@ -28,6 +28,7 @@ void main()
        {
          printf("\n %d found in the array %d times",item,flag);
         }
+ }
         
    
    
